@@ -1,11 +1,10 @@
----
-name: Update Request
-about: Use this template to create an update request PR.
-title: 'Update Request: <Put new version number here>'
-labels: update request
-assignees: gponto, AlexWilson-GIS
+# Update Request
 
----
+## Metadata
+
+* New version number: `<put version number of update here>`
+* Attn: @gponto, @AlexWilson-GIS
+* Label(s) that should be added to PR: `update request`
 
 ## Documentation
 
@@ -19,4 +18,4 @@ assignees: gponto, AlexWilson-GIS
 
 ## Notes
 
-<!--If there is anything else that should be noted about this submission, please put that information here. Otherwise, you can delete this section.-->
+<!--Please put any other information that should be known about the update here, such as a summary of changes.-->
