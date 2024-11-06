@@ -4,7 +4,7 @@ body:
       value: "Use this to Start a discussion between the members of this repo on some topic. Use the Q&A category if you just want a question and answer."
   - type: textarea
     attributes:
-      label: discussion
+      label: Starting a Discussion
       placeholder: I would like to discuss...
       value: Discussion topic
     validations:
