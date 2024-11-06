@@ -11,6 +11,6 @@ body:
     attributes:
       label: Starting a Discussion
       placeholder: I would like to discuss...
-      value: ""
+      value: I would like to discuss
     validations:
       required: true
