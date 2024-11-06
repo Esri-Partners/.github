@@ -1,6 +1,6 @@
 title: Discussion - <discussion topic here>
 labels:
-  - discussion
+  - help wanted
 body:
   - type: markdown
     attributes:
