@@ -5,12 +5,12 @@ body:
   - type: markdown
     attributes:
       value: |
-        Use this to Start a discussion between the members of this repo on some topic.
+        Use this to start a discussion between the members of this repo on some topic.
         Use the Q&A category if you just want an answer to a question.
   - type: textarea
     attributes:
       label: Starting a Discussion
       placeholder: I would like to discuss...
-      value: Discussion topic
+      value: ""
     validations:
       required: true
