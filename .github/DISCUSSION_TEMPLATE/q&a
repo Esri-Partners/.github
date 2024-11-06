@@ -1,0 +1,16 @@
+title: Question - <question topic here>
+labels:
+  - question
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this when you want an answer back to a specific question.
+        Use the General category if you want to start a discussion on a particular topic.
+  - type: textarea
+    attributes:
+      label: Asking a Question
+      placeholder: I have a question about...
+      value: I have a question about 
+    validations:
+      required: true
