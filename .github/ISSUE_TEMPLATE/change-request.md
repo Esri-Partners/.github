@@ -1,6 +1,6 @@
 ---
 name: Change Request
-about: Use this template to create a change request. This is useful when Esri or the widget vendor would like the other party to change something that is within their purview. You do not need to create an issue for tracking normal updates from the vendor; in that case, simply create a branch, update the code in the branch, and open a pull request.
+about: This is useful when Esri or the widget vendor would like the other party to change something that is within their purview. You do not need to create an issue for tracking normal updates from the vendor; in that case, simply create a branch, update the code in the branch, and open a pull request.
 title: 'Change Request - <put description here>'
 
 ---
