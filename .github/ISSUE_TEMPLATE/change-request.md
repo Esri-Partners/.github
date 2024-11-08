@@ -2,7 +2,6 @@
 name: Change Request
 about: Use this template to create a change request. This is useful when Esri or the widget vendor would like the other party to change something that is within their purview.
 title: 'Change Request - <put description here>'
-labels: change request
 
 ---
 
